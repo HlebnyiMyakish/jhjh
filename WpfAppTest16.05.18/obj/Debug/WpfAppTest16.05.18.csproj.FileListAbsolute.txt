@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\bin\Debug\WpfAppTest16.05.18.exe.config
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\bin\Debug\WpfAppTest16.05.18.exe
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\bin\Debug\WpfAppTest16.05.18.pdb
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\MainWindow.g.cs
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\App.g.cs
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\WpfAppTest16.05.18_MarkupCompile.cache
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\WpfAppTest16.05.18_MarkupCompile.lref
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\MainWindow.baml
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\Themes\Generic.baml
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\WpfAppTest16.05.18.g.resources
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\WpfAppTest16._05._18.Properties.Resources.resources
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\WpfAppTest16.05.18.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\WpfAppTest16.05.18.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\WpfAppTest16.05.18.exe
+C:\Users\user\source\repos\WpfAppTest16.05.18\WpfAppTest16.05.18\obj\Debug\WpfAppTest16.05.18.pdb
